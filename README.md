@@ -1,4 +1,4 @@
-## PROJECT 1: Car Price Prediction🚗🚙
+## Car Price Prediction🚗🚙
 This project is about predicting the price of a car based on quite a number of features such as the year it was made, the price it was bought, transmission type e.t.c
 #### Variables
 1. Car_Name: Name of car(numeric)  
